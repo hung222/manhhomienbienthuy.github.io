@@ -1,0 +1,1 @@
+chào bạn mình đang làm web bằng django,đang tìm cách để dùng lệnh def mấy cái chữ trong mấy cái ô tạo ra trong models.py ,thí dụ có 3 ô tiêu đề,email,comment trong trang admin đó ra trang chủ
